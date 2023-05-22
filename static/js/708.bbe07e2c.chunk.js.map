@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/708.bbe07e2c.chunk.js","mappings":"kMAAe,SAASA,IACtB,OAAO,gEACR,C","sources":["views/HomeView.jsx"],"sourcesContent":["export default function HomeView() {\n  return <h1>Wellcome to your personal phonebook!</h1>;\n}\n"],"names":["HomeView"],"sourceRoot":""}

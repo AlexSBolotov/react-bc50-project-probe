@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-bc50-project-probe/static/css/main.7ffe125c.css",
+    "main.js": "/react-bc50-project-probe/static/js/main.c17b6c56.js",
+    "static/js/708.bbe07e2c.chunk.js": "/react-bc50-project-probe/static/js/708.bbe07e2c.chunk.js",
+    "static/css/960.d8c60290.chunk.css": "/react-bc50-project-probe/static/css/960.d8c60290.chunk.css",
+    "static/js/960.cf70512b.chunk.js": "/react-bc50-project-probe/static/js/960.cf70512b.chunk.js",
+    "static/css/499.d8c60290.chunk.css": "/react-bc50-project-probe/static/css/499.d8c60290.chunk.css",
+    "static/js/499.2dd4233b.chunk.js": "/react-bc50-project-probe/static/js/499.2dd4233b.chunk.js",
+    "static/css/615.af207739.chunk.css": "/react-bc50-project-probe/static/css/615.af207739.chunk.css",
+    "static/js/615.ee7d9c4d.chunk.js": "/react-bc50-project-probe/static/js/615.ee7d9c4d.chunk.js",
+    "static/js/969.7cad57db.chunk.js": "/react-bc50-project-probe/static/js/969.7cad57db.chunk.js",
+    "static/js/613.59d73017.chunk.js": "/react-bc50-project-probe/static/js/613.59d73017.chunk.js",
+    "index.html": "/react-bc50-project-probe/index.html",
+    "main.7ffe125c.css.map": "/react-bc50-project-probe/static/css/main.7ffe125c.css.map",
+    "main.c17b6c56.js.map": "/react-bc50-project-probe/static/js/main.c17b6c56.js.map",
+    "708.bbe07e2c.chunk.js.map": "/react-bc50-project-probe/static/js/708.bbe07e2c.chunk.js.map",
+    "960.d8c60290.chunk.css.map": "/react-bc50-project-probe/static/css/960.d8c60290.chunk.css.map",
+    "960.cf70512b.chunk.js.map": "/react-bc50-project-probe/static/js/960.cf70512b.chunk.js.map",
+    "499.d8c60290.chunk.css.map": "/react-bc50-project-probe/static/css/499.d8c60290.chunk.css.map",
+    "499.2dd4233b.chunk.js.map": "/react-bc50-project-probe/static/js/499.2dd4233b.chunk.js.map",
+    "615.af207739.chunk.css.map": "/react-bc50-project-probe/static/css/615.af207739.chunk.css.map",
+    "615.ee7d9c4d.chunk.js.map": "/react-bc50-project-probe/static/js/615.ee7d9c4d.chunk.js.map",
+    "969.7cad57db.chunk.js.map": "/react-bc50-project-probe/static/js/969.7cad57db.chunk.js.map",
+    "613.59d73017.chunk.js.map": "/react-bc50-project-probe/static/js/613.59d73017.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ffe125c.css",
+    "static/js/main.c17b6c56.js"
+  ]
+}
