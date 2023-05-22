@@ -1,0 +1,20 @@
+.link {
+  font-size: 18px;
+  font-weight: 400;
+  text-decoration: none;
+
+  margin-right: 20px;
+  color: grey;
+}
+
+.link:hover {
+  color: cornflowerblue;
+}
+.active {
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+
+  margin-right: 20px;
+  color: cornflowerblue;
+}
